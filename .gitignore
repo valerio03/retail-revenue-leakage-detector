@@ -1,0 +1,19 @@
+﻿# Data & models
+data/
+models/
+dashboards/
+images/
+
+# Python cache
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+*.env
+
+# System files
+.DS_Store
+Thumbs.db
